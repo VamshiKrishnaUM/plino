@@ -1,3 +1,4 @@
+setuptools==45
 # https://github.com/tasdikrahman/spamfilter specific requirements
 beautifulsoup4==4.6.0
 dill==0.2.6
